@@ -1,0 +1,8 @@
+[2024-07-04 07:11:24,013] [INFO] [com.alyn.log4j.main.Log4jMain] - This is info message
+[2024-07-04 07:11:24,017] [DEBUG] [com.alyn.log4j.main.Log4jMain] - This is debug message
+[2024-07-04 07:11:24,017] [ERROR] [com.alyn.log4j.main.Log4jMain] - This is error message
+[2024-07-04 07:11:24,017] [FATAL] [com.alyn.log4j.main.Log4jMain] - This is Fatal message
+[2024-07-04 07:11:40,100] [INFO] [com.alyn.log4j.main.Log4jMain] - This is info message
+[2024-07-04 07:11:40,105] [DEBUG] [com.alyn.log4j.main.Log4jMain] - This is debug message
+[2024-07-04 07:11:40,105] [ERROR] [com.alyn.log4j.main.Log4jMain] - This is error message
+[2024-07-04 07:11:40,105] [FATAL] [com.alyn.log4j.main.Log4jMain] - This is Fatal message
