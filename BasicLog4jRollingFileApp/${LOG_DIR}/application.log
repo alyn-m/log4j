@@ -1,0 +1,8 @@
+2024-07-04 16:36:00 INFO  This is info message
+2024-07-04 16:36:00 WARN  This is Warn message
+2024-07-04 16:36:00 ERROR This is the Error message
+2024-07-04 16:36:00 FATAL This is fatal message
+2024-07-04 16:37:05 INFO  This is info message
+2024-07-04 16:37:05 WARN  This is Warn message
+2024-07-04 16:37:05 ERROR This is the Error message
+2024-07-04 16:37:05 FATAL This is fatal message
